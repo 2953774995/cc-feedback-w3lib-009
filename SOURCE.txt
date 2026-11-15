@@ -1,0 +1,5 @@
+来源仓库：https://github.com/scrapy/w3lib
+冻结 commit：824ca5efaa6583d2d148f04ebfeea694f580dea7
+许可证：BSD-3-Clause
+导入日期：2026-11-15
+说明：本目录为评测底座，已剥离上游 git 历史，仅保留代码快照。
